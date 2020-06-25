@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48570\\source\\repos\\PomiarWentylacjiProjektZaliczeniowy\\PomiarWentylacjiProjektZaliczeniowy.csproj",
+      "projectUniqueName": "C:\\Users\\48570\\Source\\Repos\\wprowadzenieDoProgramowaniaProjekt\\PomiarWentylacjiProjektZaliczeniowy\\PomiarWentylacjiProjektZaliczeniowy.csproj",
       "projectName": "PomiarWentylacjiProjektZaliczeniowy",
-      "projectPath": "C:\\Users\\48570\\source\\repos\\PomiarWentylacjiProjektZaliczeniowy\\PomiarWentylacjiProjektZaliczeniowy.csproj",
+      "projectPath": "C:\\Users\\48570\\Source\\Repos\\wprowadzenieDoProgramowaniaProjekt\\PomiarWentylacjiProjektZaliczeniowy\\PomiarWentylacjiProjektZaliczeniowy.csproj",
       "packagesPath": "C:\\Users\\48570\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48570\\source\\repos\\PomiarWentylacjiProjektZaliczeniowy\\obj\\",
+      "outputPath": "C:\\Users\\48570\\Source\\Repos\\wprowadzenieDoProgramowaniaProjekt\\PomiarWentylacjiProjektZaliczeniowy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\48570\\source\\repos\\VentilationLib\\VentilationLib.csproj": {
-              "projectPath": "C:\\Users\\48570\\source\\repos\\VentilationLib\\VentilationLib.csproj"
+            "C:\\Users\\48570\\Source\\Repos\\wprowadzenieDoProgramowaniaProjekt\\VentilationLib\\VentilationLib.csproj": {
+              "projectPath": "C:\\Users\\48570\\Source\\Repos\\wprowadzenieDoProgramowaniaProjekt\\VentilationLib\\VentilationLib.csproj"
             }
           }
         }
