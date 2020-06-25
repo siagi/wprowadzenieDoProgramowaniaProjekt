@@ -1,0 +1,9 @@
+C:\Users\48570\source\repos\VentilationLib\obj\Debug\netstandard2.0\VentilationLib.csprojAssemblyReference.cache
+C:\Users\48570\source\repos\VentilationLib\obj\Debug\netstandard2.0\VentilationLib.AssemblyInfoInputs.cache
+C:\Users\48570\source\repos\VentilationLib\obj\Debug\netstandard2.0\VentilationLib.AssemblyInfo.cs
+C:\Users\48570\source\repos\VentilationLib\obj\Debug\netstandard2.0\VentilationLib.csproj.CoreCompileInputs.cache
+C:\Users\48570\source\repos\VentilationLib\bin\Debug\netstandard2.0\VentilationLib.deps.json
+C:\Users\48570\source\repos\VentilationLib\bin\Debug\netstandard2.0\VentilationLib.dll
+C:\Users\48570\source\repos\VentilationLib\bin\Debug\netstandard2.0\VentilationLib.pdb
+C:\Users\48570\source\repos\VentilationLib\obj\Debug\netstandard2.0\VentilationLib.dll
+C:\Users\48570\source\repos\VentilationLib\obj\Debug\netstandard2.0\VentilationLib.pdb
