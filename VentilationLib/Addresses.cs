@@ -4,22 +4,60 @@ namespace VentilationLib
 {
     public class Addresses
     {
-        public string City { get; private set; }
-        public string HousingAssociation { get; private set; }
-        public string Street { get; private set; }
-        public string PostCode { get; private set; }
 
-        public Addresses(string city, string housingAssociation, string street, string postCode)
+        private string City;
+        public string CITY
         {
-            City = city;
-            HousingAssociation = housingAssociation;
-            Street = street;
-            PostCode = postCode;
+            get => City;
+            set 
+            {
+                City = value;
+            }
+        }
+        private string HousingAssociation;
+        public string HOUSINGASSOCIATION
+        {
+            get => HousingAssociation;
+            set 
+            {
+                HousingAssociation = value;
+            }
+        }
+        private string Street;
+        public string STREET
+        {
+            get => Street;
+            set
+            {
+                Street = value;
+            }
+        }
+        private string PostCode;
+        public string POSTCODE 
+        {
+            get => PostCode;
+            set
+            {
+                PostCode = value;
+            }
         }
 
+        public Addresses()
+        {
+            Console.WriteLine("Podaj miasto");
+            City = Console.ReadLine();
+            Console.WriteLine("Podaj osiedle");
+            HousingAssociation = Console.ReadLine();
+            Console.WriteLine("Podaj ulice");
+            Street = Console.ReadLine();
+            Console.WriteLine("Podaj kod pocztowy");
+            PostCode = Console.ReadLine();
+        }
+
+         
         public override string ToString()
         {
-            return $"{HousingAssociation} {Street} {PostCode} {City}";
+            return $"{HousingAssociation} // {Street} // {PostCode} // {City}";
         }
     }
 
