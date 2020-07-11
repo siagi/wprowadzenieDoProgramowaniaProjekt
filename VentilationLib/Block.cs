@@ -4,10 +4,10 @@ using System.Text;
 
 namespace VentilationLib
 {
-    class Block
+    public class Block
     {
-        public int blockNr { get; private set; }
-        public int BLOCKNR
+        public string blockNr { get; private set; }
+        public string BLOCKNR
         {
             get => blockNr;
             set
@@ -84,7 +84,7 @@ namespace VentilationLib
         public Block()
         {
             Console.WriteLine("Podaj nr bloku");
-            this.blockNr = int.Parse(Console.ReadLine());
+            this.blockNr = Console.ReadLine();
             Console.WriteLine("Podaj maksymalną ilość wentylatorów jaka może występować w mieszkaniu");
             this.maxVentQuantity = int.Parse(Console.ReadLine());
             Console.WriteLine("Podaj ilośc pięter w bloku");
@@ -96,6 +96,10 @@ namespace VentilationLib
             this.avarageFlow = int.Parse(Console.ReadLine());
 
         }
-        
+
+        public override string ToString()
+        {
+            return $"Nr Bloku: {BLOCKNR} || Ilość mieszkań: {FLATQIANTITY} || Projektowa wartość przepływu powietrza: {AVARAGEFLOW}\n --------------------------------";
+        }
     }
 }

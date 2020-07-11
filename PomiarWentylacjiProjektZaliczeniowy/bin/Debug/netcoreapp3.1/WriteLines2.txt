@@ -1,0 +1,2 @@
+Osiedle : Prokocim || Ulica : asd || Kod pocztowy : asd || Miasto :KRakow
+Nr Bloku : 1 || Ilość mieszkań : 1 || Projektowa wartość przepływu powietrza :20 

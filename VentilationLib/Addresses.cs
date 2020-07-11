@@ -57,7 +57,7 @@ namespace VentilationLib
          
         public override string ToString()
         {
-            return $"{HousingAssociation} // {Street} // {PostCode} // {City}";
+            return $"Osiedle : {HousingAssociation} || Ulica : {Street} || Kod pocztowy : {PostCode} || Miasto :{City}\n --------------------------------";
         }
     }
 
