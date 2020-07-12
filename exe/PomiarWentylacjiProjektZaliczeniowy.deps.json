@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PomiarWentylacjiProjektZaliczeniowy/1.0.0": {
+        "dependencies": {
+          "VentilationLib": "1.0.0"
+        },
+        "runtime": {
+          "PomiarWentylacjiProjektZaliczeniowy.dll": {}
+        }
+      },
+      "VentilationLib/1.0.0": {
+        "runtime": {
+          "VentilationLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PomiarWentylacjiProjektZaliczeniowy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VentilationLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
