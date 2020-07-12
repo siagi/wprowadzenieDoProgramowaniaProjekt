@@ -1,1 +1,3 @@
 # wprowadzenieDoProgramowaniaProjekt
+Aplikacja ma za zadanie wspomóc osoby wykonujące pomiary wentylacji.
+Na tym etapie aplikacja zapisuje adresy wspolnoty mieszkaniowej nastepnie konkretnego bloku mieszkalnego, w którym są wykonywane pomiary i na końcu zapisuje wyniki pomiarów. Po wykonaniu pierwszych pomiarów wyniki można przeglądać oraz edytować. Wyniki można poddać prostej analizie. Dodatkowym elementem jest generowanie kodu ID, po kótrym mozna znaleźć mieszkanie w, którym był wykonywany pomiar i zobaczyć wyniki. W zamyśle ma to być narzędzie dla mieszkańców, ktorzy po otrzymaniu kodu przy wykonywaniu pomiarów później mogą sprawdzić wyniki na ogólnodostępnej platformie. 
